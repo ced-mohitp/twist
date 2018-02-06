@@ -12,5 +12,7 @@ header:
     signup: 'Sign Up '
     team: 'Team '
     testimony: 'Testimony '
+banner:
+  h1: this is my first hugo theme
 ---
 
