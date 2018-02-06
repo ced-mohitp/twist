@@ -5,12 +5,12 @@ header:
     blog: 'Blog '
     explore: Project
     faq: 'FAQ '
-    home: Home t
+    home: 'Home '
     login: 'Login '
     pricing: 'Pricing '
-    services: Services t
+    services: 'Services '
     signup: 'Sign Up '
     team: 'Team '
-    testimony: Testimony t
+    testimony: 'Testimony '
 ---
 
