@@ -54,7 +54,6 @@ collections:
                   - label: "Login"
                     name: "login"
                     widget: "string" 
-        fields:
           - label: "Banner"
             name: "banner"
             widget: "object"
