@@ -1,6 +1,4 @@
 ---
-head:
-  title: Twist
 header:
   brand: Twist
   navbar:
@@ -22,5 +20,4 @@ banner:
   link_2: FREEHTML5.co
   action_1: Demo
   action_2: Download
-
 ---
