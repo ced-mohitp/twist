@@ -2,15 +2,15 @@
 header:
   brand: My Twist Site
   navbar:
-    blog: Blog
+    blog: Blog t
     explore: Project
-    faq: FAQ
-    home: 'Home '
-    login: Login
-    pricing: Pricing
-    services: Services
-    signup: Sign Up
-    team: Team
-    testimony: Testimony
+    faq: FAQ t
+    home: Home t
+    login: Login t
+    pricing: Pricing t
+    services: Services t
+    signup: Sign Up t
+    team: Team t
+    testimony: Testimony t
 ---
 
