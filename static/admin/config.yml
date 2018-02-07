@@ -79,4 +79,3 @@ collections:
               - label: "action_2"
                 name: "action_2"
                 widget: "string"
-            
